@@ -1,7 +1,7 @@
 {
-  "name": "serverless-azure-functions",
+  "name": "serverless-azure-functions-dev9-jazz",
   "version": "0.7.0",
-  "description": "Provider plugin for the Serverless Framework v1.x which adds support for Azure Functions.",
+  "description": "Provider plugin for the Serverless Framework v1.x which adds support for Azure Functions. A fork that allows setting of a specific resource group.",
   "license": "MIT",
   "main": "index.js",
   "author": "Azure Functions",
@@ -9,7 +9,7 @@
     "test": "eslint **/*.js"
   },
   "repository": {
-    "git": "https://github.com/serverless/serverless-azure-functions"
+    "git": "https://github.com/oscarbrooksdev9/serverless-azure-functions"
   },
   "homepage": "https://github.com/serverless/serverless-azure-functions",
   "keywords": [
